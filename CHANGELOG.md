@@ -1,3 +1,7 @@
+# v1.1.7
+
+- Increased the character limit to 9999
+
 # v1.1.6
 
 - Rewrote the detection of the loading screen so it works good now instead of bad.
